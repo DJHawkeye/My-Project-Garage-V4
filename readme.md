@@ -11,7 +11,7 @@ A local server using SQL (such as xammp)
 Code editor (such as VS CODE)
 
 Create a folder in your xammp(or alternative) folder for the project for ease of access,
-Open your terminal and type the following: git clone....
+Open your terminal and type the following: git clone https://github.com/DJHawkeye/My-Project-Garage-V4.git
 Open the cloned folder and locate the SQL files, create_tables and insert_data,
 Create a new database on your local server,
 Using the terminal copy and past first the create_tables file and then the insert_data files to obtain database information,
